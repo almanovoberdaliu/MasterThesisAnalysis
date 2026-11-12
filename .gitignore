@@ -1,0 +1,14 @@
+# Student data (not uploaded to GitHub)
+data/FormWithSyntheticData.xlsx
+data/FormWithSyntheticData.csv
+
+# Generated figures
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+Thumbs.db
